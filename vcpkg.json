@@ -1,0 +1,9 @@
+{
+  "name" : "multicpy",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "eba7c6a894fce24146af4fdf161fef8e90dd6be3",
+  "dependencies" : [ {
+    "name" : "openssl",
+    "version>=" : "3.3.2"
+  } ]
+}
